@@ -1,4 +1,4 @@
-package CodeChallage1;
+package CodeChallages.FizzBuzz;
 
 public class FizzBuzz {
     public static void main(String[] args){
