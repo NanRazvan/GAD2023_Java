@@ -1,6 +1,4 @@
-# GAD2023_Java
-
-Cursul "Google Atelier Digital - Java" 💻
+# Cursul "Google Atelier Digital - Java" 💻
 
  🖥️  Descrierea cursului:
    
