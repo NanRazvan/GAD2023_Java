@@ -1,6 +1,5 @@
 # 💻 Cursul "Google Atelier Digital - Java" 
-
-## Cursul a fost conceput special pentru persoanele care doresc să-și dezvolte competențele în programare și să înceapă să lucreze cu limbajul de programare Java. Acesta a fost oferit în cadrul platformei  Google Atelier Digital. 
+# Cursul a fost conceput special pentru persoanele care doresc să-și dezvolte competențele în programare și să înceapă să lucreze cu limbajul de programare Java. Acesta a fost oferit în cadrul platformei  Google Atelier Digital. 
 
 ## 👁️‍🗨️   Obiectivele cursului:
 
