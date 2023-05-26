@@ -1,4 +1,4 @@
-package CodeChallages.Paris;
+package CodeChallages.Pairs;
 
 public class SizesDoNotMatch extends RuntimeException{
     public SizesDoNotMatch(){

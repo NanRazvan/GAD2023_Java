@@ -1,4 +1,4 @@
-package CodeChallages.Paris;
+package CodeChallages.Pairs;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package CodeChallages.Paris;
+package CodeChallages.Pairs;
 
 import java.util.Objects;
 

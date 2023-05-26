@@ -1,4 +1,4 @@
-package OOP.boxing;
+package CodeChallages.TwoFightersOneWinner;
 
 public class BoxingMatch {
 
