@@ -1,25 +1,24 @@
-# 💻 Cursul "Google Atelier Digital - Java" 
-Cursul a fost conceput special pentru persoanele care doresc să-și dezvolte competențele în programare și să înceapă să lucreze cu limbajul de programare Java. Acesta a fost oferit în cadrul platformei  Google Atelier Digital. 
+## 💻 Course: "Google Digital Workshop - Java"
+The course has been specifically designed for individuals who wish to develop their programming skills and start working with the Java programming language. It was offered on the Google Digital Workshop platform.
 --------------------------------------------------------------------------------------------
 
-## 👁️‍🗨️   Obiectivele cursului:
+## 👁️‍🗨️   Course Objectives:
 
- Cursul și-a propus să ofere o introducere solidă în Java, unul dintre cele mai populare și utilizate limbaje de programare la nivel global. Prin intermediul acestui curs, am avut ocazia de a înțelege conceptele fundamentale ale programării și de a dobândi cunoștințe esențiale despre sintaxa, structura și funcționalitățile specifice ale limbajului Java.
+The course aims to provide a solid introduction to Java, one of the most popular and widely used programming languages globally. Through this course, participants had the opportunity to grasp fundamental programming concepts and acquire essential knowledge about Java syntax, structure, and specific functionalities.
 
-## 📚   Tematici abordate:    
-  
- ### În cadrul acestui curs, am avut ocazia de a explora și înțelege următoarele tematici principale:
- 
-• Variabile și tipuri de date în Java 
+## 📚   Topics Covered:
+
+### During this course, participants had the opportunity to explore and understand the following key topics:
+• Variables and Data Types in Java
 • Collections
 • Generics
-• Lucrul cu clase și obiecte (OOP)
-• Functional programming
+• Working with Classes and Objects (OOP)
+• Functional Programming
 • Design Patterns
-• Gestionarea excepțiilor 
-• Concurrency programming
+• Exception Handling
+• Concurrency Programming
 
 
-## 💡   Rezultate și beneficii:
+## 💡   Outcomes and Benefits:
 
- După finalizarea cursului "Google Atelier Digital - Java", am dobândit o înțelegere solidă a limbajului de programare Java și am dezvoltat abilități practice în scrierea de cod Java eficient și bine structurat. Am pregătit o listă impresionantă de mici proiecte, fiecare bazat pe una dintre tematicile abordate în cadrul cursului . Aceste proiecte reprezintă o modalitate excelentă de a demonstra ceea ce am învățat și de a aplica cunoștințele acumulate într-un mod practic.
+Upon completing the "Google Digital Workshop - Java" course, participants gained a solid understanding of the Java programming language and developed practical skills in writing efficient and well-structured Java code. They worked on an impressive list of small projects, each based on one of the topics covered in the course. These projects serve as an excellent way to showcase their learning and apply the acquired knowledge in a practical manner.
